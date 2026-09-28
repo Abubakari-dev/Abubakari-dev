@@ -6,14 +6,10 @@ I build applications that solve real problems in agriculture, health, and touris
 
 ## Projects
 
-**[Agro Advice](https://github.com/Abubakari-dev/Agro_advice)**
-Mobile app that gives farmers practical crop and farming advice. Built with Flutter and Dart.
 
-**[Smart Health](https://github.com/Abubakari-dev/smart_health)**
-Health-tracking mobile app. Built with Flutter and Dart.
-
-**[MSwahili Tours](https://github.com/Abubakari-dev/mswahili-tours)**
-Tourism web platform for exploring Tanzania. Built with TypeScript.
+- **[Agro Advice](https://github.com/Abubakari-dev/Agro_advice)**: Mobile app that gives farmers practical crop and farming advice. Built with Flutter and Dart.
+- **[Smart Health](https://github.com/Abubakari-dev/smart_health)**: Health-tracking mobile app. Built with Flutter and Dart.
+- **[MSwahili Tours](https://github.com/Abubakari-dev/mswahili-tours)**: Tourism web platform for exploring Tanzania. Built with TypeScript.
 
 ## Skills
 
