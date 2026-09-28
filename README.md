@@ -31,3 +31,4 @@ I am a full-stack developer based in Dodoma, Tanzania. I build mobile apps with 
 
 - Email: [abubakariabushekhe87@gmail.com](mailto:abubakariabushekhe87@gmail.com)
 - Portfolio: [portfolio-tau-virid-qjofccnguz.vercel.app](https://portfolio-tau-virid-qjofccnguz.vercel.app/)
+- Instagram: [@abubakari_001](https://www.instagram.com/abubakari_001)
